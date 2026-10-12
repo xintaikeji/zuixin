@@ -1,3 +1,5 @@
+[📺YouTube频道](https://www.youtube.com/@wandou)
+
 # ✈️推荐机场
 闪狐节点: https://sdfox.cc/#/register?code=yU2zqAHF
 
