@@ -13,3 +13,5 @@ https://www.xintaifree.com
 ## 一键订阅链接
   ```text
 https://raw.githubusercontent.com/xintaikeji/zuixin/refs/heads/main/shadowrocket
+
+##规则分流
