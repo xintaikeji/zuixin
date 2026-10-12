@@ -13,7 +13,7 @@ https://www.xintaifree.com
 https://raw.githubusercontent.com/xintaikeji/zuixin/refs/heads/main/shadowrocket
 ```
 
-### 规则集
+## 规则集
  ```text
 https://github.com/blackmatrix7/ios_rule_script/tree/master
 ```
