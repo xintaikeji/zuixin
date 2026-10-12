@@ -8,7 +8,7 @@
 # 火箭🚀商店网站
 https://www.xintaifree.com
 
-# 一键订阅链接
+# 懒人配置链接
   ```text
 https://raw.githubusercontent.com/xintaikeji/zuixin/refs/heads/main/shadowrocket
 ```
