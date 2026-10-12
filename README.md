@@ -13,3 +13,12 @@ https://www.xintaifree.com
 ## 一键订阅链接
   ```text
 https://raw.githubusercontent.com/xintaikeji/zuixin/refs/heads/main/shadowrocket
+
+## 九折优惠地址
+
+wd.jsjc456789.com
+
+
+## 三元机场
+
+https://sanyuandian.net/#/register?code=B1DEDD89
