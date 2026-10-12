@@ -2,7 +2,7 @@
 
 闪狐节点: https://sdfox.cc/#/register?code=yU2zqAHF
  
-九折优惠地址：wd.jsjc456789.com
+九折优惠地址：[wd.jsjc456789.com](https://04t.de/8gi41)
 
 三元机场：https://sanyuandian.net/#/register?code=B1DEDD89
 												
