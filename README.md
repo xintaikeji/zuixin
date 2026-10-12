@@ -8,7 +8,7 @@
 三元机场：https://sanyuandian.net/#/register?code=B1DEDD89	
 
 # 火箭🚀商店网站
-https://www.xintaifree.com
+商店链接：https://www.xintaifree.com
 
 # 懒人配置链接
   ```text
