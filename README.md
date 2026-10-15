@@ -10,6 +10,7 @@
 
 # ChatGPT充值
 plus：https://www.xintaifree.com
+
 pro ：https://www.xintaifree.com
 
 # 懒人配置链接
