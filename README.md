@@ -8,6 +8,10 @@
 # 火箭🚀商店网站
 商店链接：https://www.xintaifree.com
 
+# ChatGPT充值
+plus：https://www.xintaifree.com
+pro ：https://www.xintaifree.com
+
 # 懒人配置链接
   ```text
 https://raw.githubusercontent.com/xintaikeji/zuixin/refs/heads/main/shadowrocket
